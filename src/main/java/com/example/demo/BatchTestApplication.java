@@ -9,7 +9,6 @@ public class BatchTestApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(BatchTestApplication.class, args);
-		System.out.println("hello world");
 	}
 
 }
